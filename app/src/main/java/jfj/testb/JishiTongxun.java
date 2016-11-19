@@ -7,4 +7,5 @@ package jfj.testb;
 public class JishiTongxun {
     // 即时通讯
     // qwe
+    //asd
 }
